@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433594221808",
+    "project_id": "blog-3eabf",
+    "storage_bucket": "blog-3eabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433594221808:android:355b909d6325f7b38eae35",
+        "android_client_info": {
+          "package_name": "com.dacs.reatimedatabasecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWDLZia0db2TmXnkjdlR9p9UwbHg1XLsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
